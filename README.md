@@ -21,6 +21,7 @@ In this project, I have taken a lot of statistical methods and data visualizatio
 
 ## Linear Regression
 inear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables, hence called as linear regression. Since linear regression shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable.
+![image](https://github.com/Prayag-Chawla/Statistic-Modelling-as-ML/assets/92213377/356bea2d-16f6-486c-b0af-45591114de81)
 
 
 ## Usage and Installation
@@ -48,6 +49,19 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
+
+
+
+
+## output
+
+![image](https://github.com/Prayag-Chawla/Statistic-Modelling-as-ML/assets/92213377/fc937018-c3a0-4810-b7ed-f38d9b7edfc7)
+
+
+![image](https://github.com/Prayag-Chawla/Statistic-Modelling-as-ML/assets/92213377/7b6cde7e-4380-4141-a678-5f64af7d88f2)
+![image](https://github.com/Prayag-Chawla/Statistic-Modelling-as-ML/assets/92213377/88963cd3-ae03-4776-9257-e30565322e08)
+![image](https://github.com/Prayag-Chawla/Statistic-Modelling-as-ML/assets/92213377/82b4df8c-0d22-4ef9-abaa-9791b9018a77)
+
 
 
 ## Used By
